@@ -31,3 +31,11 @@ Ensure you have Node.js and npm installed. If not, download and install them fro
 
    ```bash
    node index.js
+
+
+## Sample Output:
+```
+Public Key 0: 2kPGR8XaM2yViYJkxTSGGJX4D1yP9XbJw5A3y8X6Gy97
+Public Key 1: G7K2pVNpt8Qj1JZG6ZXWm1u4Fzp9Jt9QpKrKn95WyCnT
+Public Key 2: FqvhZ4z7xByG6SZvXMFCxn9SwpWJwMsn1pGZ2PX8RRSW
+Public Key 3: 9vFQW3r6hKdURd7C6KZNg8jh9bWB2mgX5E3YxE8WACFq
